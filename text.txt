@@ -1,0 +1,15 @@
+
+> Task :run
+Why is a Java guy so excited about Node.js and JavaScript?
+Modern JavaScript for Ancient Web Developers
+Creating Your First Blockchain with Java. Part 1.
+Finally understanding how references work in Android and Java
+Stanford just abandoned Java in favor of JavaScript for its intro CS course.
+Effective Java for Android (cheatsheet).
+Java will kill your startup. PHP will save it.
+38 Amazing Open Source Android Apps written in Java
+Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go
+Java, Ruby, and Go, Oh My!
+
+BUILD SUCCESSFUL in 3s
+2 actionable tasks: 2 executed
