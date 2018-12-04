@@ -14,6 +14,7 @@ public class Main {
         Document document = Jsoup.connect("https://medium.com/search").data("q","java").get(); 
         // Story title is ushing div named "graf--title"
         Elements elements = document.getElementsByClass("graf--title");
+        document.getElements
         for (Element element : elements) {
             // print out each story title
             System.out.println(element.text());
